@@ -1,0 +1,29 @@
+_repo: The-Reign-of-Law--a-tale-of-the-Kentucky-hemp-fields_3791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: Title; Contents; Hemp; I; II; III; IV; V; VI; VII; VIII; IX; X; XI; XII;
+  XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Hemp industry -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Hemp farmers -- Fiction'
+- GITenberg
+title: The Reign of Law; a tale of the Kentucky hemp fields
+url: http://www.gutenberg.org/ebooks/3791
